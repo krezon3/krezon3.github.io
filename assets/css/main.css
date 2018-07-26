@@ -1720,7 +1720,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.5;
-		margin: 0 0 0.7em 0;
+		margin: 0 0 0.5em 0;
 		letter-spacing: -0.025em;
 	}
 
@@ -1743,7 +1743,7 @@
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 4.1em;
 	}
 
 	h5 {
@@ -2403,8 +2403,8 @@
 		}
 
 	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
-		color: #ffffff;
+		border-color: rgba(0, 0, 0, 0.35);
+		color: #000000;
 	}
 
 		.icon.alt:hover {
@@ -3109,7 +3109,7 @@
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 2em 5em 2em 5em ;
 		}
 
 			#header.alt h1 {
@@ -3541,7 +3541,7 @@
 			}
 
 		#main .icon.alt {
-			border-color: #dddddd;
+			border-color: #000000;
 			color: #636363;
 		}
 
